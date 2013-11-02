@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost:9090/fomiz/sitemap.xsl"?><!-- generator="Fomiz.com" -->
+<!-- sitemap-generator-url="http://localhost:9090/fomiz/" sitemap-generator-version="1.0.0" -->
+<!-- generated-on="2011-06-19T15:35:32+08:00" -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://localhost:9090/fomiz/</loc>
+        <lastmod>2011-06-19T15:35:32+08:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+                        <url>
+                            <loc>http://localhost:9090/fomiz/show-2.jsp</loc>
+                            <lastmod>2011-06-15T22:56:58+08:00</lastmod>
+                            <changefreq>monthly</changefreq>
+                            <priority>0.2</priority>
+                        </url>
+                        <url>
+                            <loc>http://localhost:9090/fomiz/show-1.jsp</loc>
+                            <lastmod>2011-06-15T22:45:24+08:00</lastmod>
+                            <changefreq>monthly</changefreq>
+                            <priority>0.2</priority>
+                        </url> <url>    <loc>http://localhost:9090/fomiz/tag-4</loc>
+        <changefreq>Weekly</changefreq>
+        <priority>0.3</priority>
+    </url> <url>    <loc>http://localhost:9090/fomiz/tag-2</loc>
+        <changefreq>Weekly</changefreq>
+        <priority>0.3</priority>
+    </url> <url>    <loc>http://localhost:9090/fomiz/tag-3</loc>
+        <changefreq>Weekly</changefreq>
+        <priority>0.3</priority>
+    </url></urlset>

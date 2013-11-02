@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /ui/
+Disallow: /xadmin/
+Disallow: /app/
+Allow: /
+
